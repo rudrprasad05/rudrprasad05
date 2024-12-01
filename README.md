@@ -25,7 +25,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrprasad05&theme=nightowl&hide_border=false" alt="AAL1X streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AAL1X&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rudrprasad05&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
