@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudr Prasad</h1>
-<h3 align="center">A (insert buzz word) web and andriod developer from Fiji</h3>
+<h3 align="center">A (insert buzz word) web and android developer from Fiji</h3>
 
 - 🔭 I’m currently working on **a website for my company**
 
